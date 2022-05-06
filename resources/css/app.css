@@ -1,0 +1,9 @@
+.container {
+    color: none;
+    display: flex;
+    justify-content: center;
+
+}
+#app {
+    background-color: white;
+}
